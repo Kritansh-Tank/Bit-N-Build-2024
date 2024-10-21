@@ -1,14 +1,36 @@
-# Bit-N-Build-2024
+🌍 EcoTravel: Global Eco-Friendly Travel Planner
+Bit N Build 2024 Hackathon Project
 
-Global Eco-Friendly Travel Planner
+🚀 Project Overview
+EcoTravel is an innovative web-based platform designed to help users plan sustainable travel experiences while minimizing their environmental impact. Tourism significantly contributes to climate change, and EcoTravel offers eco-conscious travelers the tools they need to make greener travel choices without compromising convenience or experience.
 
-Backstory:
-Tourism is a major contributor to climate change due to the carbon emissions from flights, cruise ships, and other travel modes. As people become more environmentally conscious, there’s a growing demand for sustainable travel options, but there’s no all-in-one platform that helps travelers plan eco-friendly trips without compromising on convenience or experience.
+💡 Problem Statement
+Tourism's reliance on flights, cruise ships, and other carbon-heavy travel modes is a major contributor to climate change. As awareness of environmental impact grows, there’s an increasing demand for sustainable travel options. However, there’s no comprehensive platform to help travelers plan eco-friendly trips, balancing environmental responsibility with travel enjoyment. EcoTravel bridges that gap, providing tools to calculate carbon footprints, offer greener alternatives, and connect with eco-conscious accommodations and activities.
 
-Problem Statement:
-Build a web-based eco-travel platform that allows users to plan and book sustainable travel experiences. The platform should provide users with tools to calculate the environmental impact of their travel choices, suggest greener alternatives, and connect them with eco-conscious accommodations and activities.
+🌟 Key Features
+Carbon Footprint Calculator
+Easily calculate the environmental impact of travel options (flights, trains, electric vehicles) and receive suggestions for greener alternatives along with carbon offset opportunities.
 
-Example Features:
-Carbon Footprint Calculator: A tool that calculates theenvironmental impact of various travel options (flights, trains, electric vehicles), offering greener alternatives and carbon offset suggestions.
-Eco-Conscious Accommodation Finder: A database of eco-friendly hotels, resorts, and homestays, with user reviews, sustainabilitycertifications, and carbon offset packages.
-Many more features: Green travel itineraries, partnerships with local eco-tourism providers, real-time environmental impact assessments, and options to donate to reforestation projects or environmental NGOs.
+Google Maps Directions API (SerpApi)
+Use Google Maps Directions API powered by SerpApi to find eco-friendly routes and travel options.
+
+Eco-Conscious Accommodation Finder
+Discover eco-friendly hotels, resorts, and homestays. The database includes user reviews, sustainability certifications, and carbon offset packages.
+
+Eco-Friendly Activities
+Explore sustainable activities and excursions that support local communities and protect natural resources.
+
+Green Travel Itinerary Maker Chatbot
+Powered by the Gemini 1.5 flash model, this chatbot helps users plan personalized, eco-friendly travel itineraries.
+
+Donation to Environmental NGOs
+Integrated with Razorpay, allowing users to donate to reforestation projects or environmental NGOs directly through the platform.
+
+🛠 Tech Stack
+Frontend: React.js, Vite.js, TypeScript
+Backend: Node.js, Express.js
+APIs & Integrations: SerpApi, Razorpay
+AI Integration: Gemini 1.5 flash model for the chatbot
+🏆 Hackathon Journey
+We participated as team B3TRBITE in Bit N Build 2024 with 73 competing teams. We successfully qualified for Round 2 (Semifinals) among 32 teams but did not make it to the final top 10.
+
