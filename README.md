@@ -1,4 +1,4 @@
-🌍 EcoTravel: Global Eco-Friendly Travel Planner
+##🌍 EcoTravel: Global Eco-Friendly Travel Planner
 Bit N Build 2024 Hackathon Project
 
 🚀 Project Overview
@@ -30,7 +30,8 @@ Integrated with Razorpay, allowing users to donate to reforestation projects or 
 Frontend: React.js, Vite.js, TypeScript
 Backend: Node.js, Express.js
 APIs & Integrations: SerpApi, Razorpay
-AI Integration: Gemini 1.5 flash model for the chatbot
+AI Integration: Gemini 1.5 flash model for the chatbot 
+
 🏆 Hackathon Journey
 We participated as team B3TRBITE in Bit N Build 2024 with 73 competing teams. We successfully qualified for Round 2 (Semifinals) among 32 teams but did not make it to the final top 10.
 
