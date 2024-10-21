@@ -1,6 +1,4 @@
-🌍 EcoTravel: Global Eco-Friendly Travel Planner
-
-Bit N Build 2024 Hackathon Project
+🌍 EcoTravel: Global Eco-Friendly Travel Planner Bit N Build 2024 Hackathon Project
 
 🚀 Project Overview
 EcoTravel is an innovative web-based platform designed to help users plan sustainable travel experiences while minimizing their environmental impact. Tourism significantly contributes to climate change, and EcoTravel offers eco-conscious travelers the tools they need to make greener travel choices without compromising convenience or experience.
