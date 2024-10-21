@@ -1,0 +1,212 @@
+{
+  "Jaipur, Rajasthan": [
+    {
+      "id": 1,
+      "name": "The Tree of Life Resort & Spa",
+      "description": "Set amidst the Aravalli hills, this eco-friendly resort promotes sustainability and offers luxurious accommodations with an emphasis on local culture and organic farming.",
+      "rating": 4.9,
+      "certifications": ["Green Globe"],
+      "carbonOffset": 40
+    },
+    {
+      "id": 2,
+      "name": "Jai Mahal Palace",
+      "description": "A heritage hotel set in a 1745 palace, Jai Mahal Palace is committed to eco-friendly practices and offers a blend of luxury and sustainability.",
+      "rating": 4.7,
+      "certifications": ["LEED"],
+      "carbonOffset": 30
+    },
+    {
+      "id": 3,
+      "name": "Hotel Samode Haveli",
+      "description": "An eco-friendly heritage hotel that showcases traditional Rajasthani architecture, promoting sustainable tourism and responsible practices.",
+      "rating": 4.6,
+      "certifications": ["EarthCheck"],
+      "carbonOffset": 35
+    },
+    {
+      "id": 4,
+      "name": "Shahpura House",
+      "description": "This heritage property combines traditional architecture with eco-friendly practices, offering guests a unique cultural experience while promoting sustainability.",
+      "rating": 4.5,
+      "certifications": ["Green Key"],
+      "carbonOffset": 25
+    },
+    {
+      "id": 5,
+      "name": "Vana Retreat",
+      "description": "A luxury wellness retreat focusing on holistic living and sustainable practices, offering guests a serene environment to rejuvenate and relax.",
+      "rating": 4.8,
+      "certifications": ["Sustainable Tourism Certification"],
+      "carbonOffset": 50
+    }
+  ],
+  "Agra, Uttar Pradesh": [
+    {
+      "id": 1,
+      "name": "The Oberoi Amarvilas",
+      "description": "A luxury hotel with breathtaking views of the Taj Mahal, The Oberoi Amarvilas emphasizes sustainability through eco-friendly practices and local sourcing.",
+      "rating": 4.9,
+      "certifications": ["Green Globe"],
+      "carbonOffset": 60
+    },
+    {
+      "id": 2,
+      "name": "Trident Agra",
+      "description": "Situated near the Taj Mahal, Trident Agra incorporates eco-friendly initiatives into its operations while providing a luxurious stay.",
+      "rating": 4.7,
+      "certifications": ["EarthCheck"],
+      "carbonOffset": 40
+    },
+    {
+      "id": 3,
+      "name": "Hotel Taj Resorts",
+      "description": "This eco-friendly hotel offers stunning views of the Taj Mahal and is committed to sustainability through various green initiatives.",
+      "rating": 4.5,
+      "certifications": ["Green Key"],
+      "carbonOffset": 30
+    },
+    {
+      "id": 4,
+      "name": "ITC Mughal",
+      "description": "A luxury hotel that blends Mughal architecture with eco-friendly practices, ITC Mughal is dedicated to sustainable tourism and responsible hospitality.",
+      "rating": 4.8,
+      "certifications": ["LEED"],
+      "carbonOffset": 50
+    },
+    {
+      "id": 5,
+      "name": "Crystal Sarovar Premiere",
+      "description": "An eco-friendly hotel designed with sustainability in mind, offering comfortable accommodations and a commitment to minimizing its environmental impact.",
+      "rating": 4.6,
+      "certifications": ["Sustainable Tourism Certification"],
+      "carbonOffset": 35
+    }
+  ],
+  "Chennai, Tamil Nadu": [
+    {
+      "id": 1,
+      "name": "Taj Club House",
+      "description": "A luxury hotel committed to sustainability, Taj Club House incorporates eco-friendly practices and offers a blend of comfort and style.",
+      "rating": 4.7,
+      "certifications": ["Green Globe"],
+      "carbonOffset": 45
+    },
+    {
+      "id": 2,
+      "name": "ITC Grand Chola",
+      "description": "A luxury hotel that exemplifies South Indian heritage, ITC Grand Chola focuses on sustainability and eco-friendly initiatives throughout its operations.",
+      "rating": 4.8,
+      "certifications": ["LEED"],
+      "carbonOffset": 55
+    },
+    {
+      "id": 3,
+      "name": "Radisson Blu Hotel Chennai City Centre",
+      "description": "Located in the heart of the city, this eco-friendly hotel prioritizes sustainability with green initiatives and a commitment to reducing its carbon footprint.",
+      "rating": 4.6,
+      "certifications": ["Green Key"],
+      "carbonOffset": 35
+    },
+    {
+      "id": 4,
+      "name": "The Leela Palace Chennai",
+      "description": "This luxury hotel combines opulence with eco-consciousness, focusing on sustainable practices and providing guests with a rich cultural experience.",
+      "rating": 4.9,
+      "certifications": ["EarthCheck"],
+      "carbonOffset": 60
+    },
+    {
+      "id": 5,
+      "name": "Himalaya Residency",
+      "description": "An eco-friendly budget accommodation that focuses on sustainability, providing basic amenities while minimizing environmental impact.",
+      "rating": 4.2,
+      "certifications": ["Sustainable Tourism Certification"],
+      "carbonOffset": 20
+    }
+  ],
+  "Darjeeling, West Bengal": [
+    {
+      "id": 1,
+      "name": "Mayfair Darjeeling",
+      "description": "Nestled amidst tea gardens, Mayfair Darjeeling offers luxury accommodations while promoting eco-friendly practices and local culture.",
+      "rating": 4.6,
+      "certifications": ["Green Key"],
+      "carbonOffset": 50
+    },
+    {
+      "id": 2,
+      "name": "The Elgin, Darjeeling",
+      "description": "A heritage hotel with a rich history, The Elgin focuses on sustainability, preserving the natural environment and local heritage.",
+      "rating": 4.7,
+      "certifications": ["EarthCheck"],
+      "carbonOffset": 40
+    },
+    {
+      "id": 3,
+      "name": "Windamere Hotel",
+      "description": "This charming heritage hotel promotes eco-conscious practices while offering guests stunning views of the Himalayas and local culture.",
+      "rating": 4.5,
+      "certifications": ["Sustainable Tourism Certification"],
+      "carbonOffset": 30
+    },
+    {
+      "id": 4,
+      "name": "Viceroy Hotel Darjeeling",
+      "description": "An eco-friendly hotel that emphasizes sustainability, providing comfortable accommodations while minimizing its environmental impact.",
+      "rating": 4.4,
+      "certifications": ["Green Globe"],
+      "carbonOffset": 25
+    },
+    {
+      "id": 5,
+      "name": "Hotel Seven Seventeen",
+      "description": "A boutique hotel committed to sustainable practices, offering a blend of modern comfort and local charm with a focus on environmental stewardship.",
+      "rating": 4.3,
+      "certifications": ["Sustainable Tourism Certification"],
+      "carbonOffset": 20
+    }
+  ],
+  "Varanasi, Uttar Pradesh": [
+    {
+      "id": 1,
+      "name": "BrijRama Palace",
+      "description": "A heritage hotel located on the banks of the Ganges, BrijRama Palace emphasizes sustainability and cultural preservation while offering luxurious accommodations.",
+      "rating": 4.8,
+      "certifications": ["EarthCheck"],
+      "carbonOffset": 60
+    },
+    {
+      "id": 2,
+      "name": "Taj Ganges",
+      "description": "A luxury hotel that combines modern comforts with eco-friendly initiatives, Taj Ganges is committed to sustainable tourism and cultural authenticity.",
+      "rating": 4.7,
+      "certifications": ["Green Globe"],
+      "carbonOffset": 55
+    },
+    {
+      "id": 3,
+      "name": "Hotel Surya, Kaiser Palace",
+      "description": "A heritage hotel known for its beautiful architecture, Hotel Surya focuses on sustainability and offers guests a glimpse of local culture.",
+      "rating": 4.5,
+      "certifications": ["Sustainable Tourism Certification"],
+      "carbonOffset": 40
+    },
+    {
+      "id": 4,
+      "name": "Haveli Hari Ganga",
+      "description": "This eco-friendly hotel is situated along the Ganges and promotes sustainable tourism while providing a unique cultural experience.",
+      "rating": 4.6,
+      "certifications": ["Green Key"],
+      "carbonOffset": 35
+    },
+    {
+      "id": 5,
+      "name": "Hotel Alka",
+      "description": "An eco-conscious hotel that emphasizes local culture and sustainability, Hotel Alka offers comfortable accommodations near the Ganges.",
+      "rating": 4.4,
+      "certifications": ["Sustainable Tourism Certification"],
+      "carbonOffset": 25
+    }
+  ]
+}
