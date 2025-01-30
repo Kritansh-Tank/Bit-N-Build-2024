@@ -1,4 +1,4 @@
-# 🌍 EcoTravel: Global Eco-Friendly Travel Planner Bit N Build 2024 Hackathon Project
+# 🌍 EcoTravel: Global Eco-Friendly Travel Planner (Bit N Build 2024 Hackathon Project)
 
 ## 🚀 Project Overview
 EcoTravel is an innovative web-based platform designed to help users plan sustainable travel experiences while minimizing their environmental impact. Tourism significantly contributes to climate change, and EcoTravel offers eco-conscious travelers the tools they need to make greener travel choices without compromising convenience or experience.
@@ -31,6 +31,9 @@ Integrated with Razorpay, allowing users to donate to reforestation projects or 
 3. APIs & Integrations: SerpApi, Razorpay
 4. AI Integration: Gemini 1.5 flash model for the chatbot 
 
-🏆 Hackathon Journey
+## 🏆 Hackathon Journey
 We participated as team B3TRBITE in Bit N Build 2024 with 73 competing teams. We successfully qualified for Round 2 (Semifinals) among 32 teams but did not make it to the final top 10.
 
+## 📷 Screenshot
+
+![EcoTravel](https://drive.google.com/uc?id=13gknQUztfuzHaVRaQwQcButf2wY7D44i)
