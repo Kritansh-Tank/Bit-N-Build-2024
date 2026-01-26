@@ -33,4 +33,4 @@ Integrated with Razorpay, allowing users to donate to reforestation projects or 
 
 ## User Interface
 
-![EcoTravel](https://drive.google.com/uc?id=13gknQUztfuzHaVRaQwQcButf2wY7D44i)
+![EcoTravel](assets/ecotravel.png)
