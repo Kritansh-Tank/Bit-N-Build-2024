@@ -31,6 +31,6 @@ Integrated with Razorpay, allowing users to donate to reforestation projects or 
 3. APIs & Integrations: SerpApi, Razorpay
 4. AI Integration: Gemini 1.5 flash model for the chatbot 
 
-## 📷 Screenshot
+## User Interface
 
 ![EcoTravel](https://drive.google.com/uc?id=13gknQUztfuzHaVRaQwQcButf2wY7D44i)
